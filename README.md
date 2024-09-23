@@ -13,7 +13,7 @@ This project contains a simple Dockerfile that builds an Alpine-based image. Whe
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/docker-hello-project.git
+git clone https://github.com/gboliknow/docker-hello-project.git
 cd docker-hello-project
 ```
 
@@ -56,3 +56,4 @@ docker run hello-name
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+https://roadmap.sh/projects/basic-dockerfile
